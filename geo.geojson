@@ -1,23 +1,19 @@
-42.4764241	1.4894489	50.5229988098	19	network
-
-42.4746217098	1.49019688654	300	3	gps
-
-42.4745197733	1.49164909477	96	5	gps
-
-42.4743620768	1.49012318573	400	5	gps
-
-42.4697398503	1.49273926445	12	42	gps
-
-42.469022534	1.49312818957	48	34	gps
-
-42.4684547648	1.49269692655	48	25	gps
-
-42.467548725	1.4924054238	24	14	gps
-
-42.4669016369	1.49218307955	32	48	gps
-
-42.4759386	1.4894458	45	9	network
-
-42.4759962	1.4894313	52.5	5	network
-
-42.4760471	1.4894141	45	4	network
+@@ -0,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4746217098\t1.49019688654\t300\t3\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4745197733\t1.49164909477\t96\t5\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4743620768\t1.49012318573\t400\t5\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4697398503\t1.49273926445\t12\t42\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.469022534\t1.49312818957\t48\t34\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4684547648\t1.49269692655\t48\t25\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.467548725\t1.4924054238\t24\t14\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4669016369\t1.49218307955\t32\t48\tgps" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4759386\t1.4894458\t45\t9\tnetwork" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4759962\t1.4894313\t52.5\t5\tnetwork" }, "geometry": null },
+{ "type": "Feature", "properties": { "42.4764241\t1.4894489\t50.5229988098\t19\tnetwork": "42.4760471\t1.4894141\t45\t4\tnetwork" }, "geometry": null }
+]
+}
